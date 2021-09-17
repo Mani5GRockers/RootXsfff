@@ -1,7 +1,7 @@
 {
     "name": "Mirror-X",
     "description": "Telegram-Direct-Mirror to G-Drive",
-    "logo": "https://telegra.ph/file/55cadc1697ae944a7f432.png",
+    "logo": "https://super.rootgamer.workers.dev/0:/IMG_20210917_134934_853.jpg",
     "keywords": [
       "telegram",
       "bot",
@@ -62,6 +62,11 @@
         "value": "",
         "required": true
       },
+      "TELEGRAPH_TOKEN": {
+        "description": "Open this link to generate telegraph token ==> https://telegraph-token.sonywegas.repl.run",
+        "value": "",
+        "required": false
+      },
       "USE_SERVICE_ACCOUNTS": {
         "description": "Whether to use service accounts or not. For this to work see 'Using service accounts' section below.",
         "value": "",
@@ -106,14 +111,13 @@
         "description": "(Optional field) Fill your shortener api key if you are using shortener.",
         "value": "",
         "required": false
-       }
       },
       "AUTHORIZED_CHATS": {
         "description": "(Optional field) Fill you authorized group or person id",
         "value": "",
         "required": false
-      }
-    },
+       }
+      },
     "addons": [
       {
         "plan": "heroku-postgresql"
