@@ -21,7 +21,7 @@ Here Are Some Things To Get You Started.👇
 
 ## 👉Deploy to heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/grootgamer-yt/RootX)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rootgamer-yt/RootX)
 
 For The Most Recent Changes, Please Check The Changelog.👇
 
